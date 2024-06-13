@@ -20,7 +20,7 @@ export default class AboutUs extends Component {
           </header>
           <div class="Pages-container container">
             <div class="Post-body">
-              <table style="background-color: #F3F1E7; border-radius: 10px; padding: 20px 5% 20px 5%; height: 80%;">
+              <table style="background-color: #F9F8F3; border-radius: 10px; padding: 20px 5% 20px 5%; height: 80%;">
                 <tr>
                   <td>
                     <h3>AprokoNation: Learn, Share and Relate Without the Hate or Bigotry!</h3>
