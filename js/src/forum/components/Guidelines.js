@@ -20,10 +20,10 @@ export default class Guidelines extends Component {
           </header>
           <div class="Pages-container container">
             <div class="Post-body">
-              <table style="background-color: #F3F1E7; border-radius: 10px; padding: 20px 5% 20px 5%; height: 80%;">
+              <table style="background-color: #F9F8F3; border-radius: 10px; padding: 20px 5% 20px 5%; height: 80%;">
                 <tr>
                   <td>
-                    <h3>AprokoNation Community Guidelines</h3>
+                    <h3>AprokoNation Guidelines</h3>
                     <p>Welcome to AprokoNation, the Nigerian forum for incisive discussions and awesome people! To keep
                       AprokoNation a fun and safe place for everyone, we've put up this Community Guidelines. By
                       participating in our forum, you agree to follow these guidelines:</p>
